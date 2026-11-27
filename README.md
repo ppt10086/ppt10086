@@ -10,7 +10,7 @@ Turning everyday needs into usable products.
 在网页里学习和复习英语词汇。  
 A browser-based app for learning and reviewing English vocabulary.
 
-[打开应用 · Open app](https://ppt10086.github.io/index-2/) · [部署仓库 · Deployment repository](https://github.com/ppt10086/index-2)
+[打开应用 · Open app](https://ppt10086.github.io/studylens/) · [部署仓库 · Deployment repository](https://github.com/ppt10086/studylens)
 
 ### 同屏 Ping · PingMate
 
